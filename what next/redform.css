@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(178, 10, 10);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    width: 70%;
+    margin-left: 10em;
+}
+
+.hey{
+    background-color: white;
+/* box-shadow: 2px 3px 12px white; */
+    /* margin: 100px; */
+margin-top: 30px;
+border: 5px inset #f00f;
+ border-radius: 3em 0em ;
+ /* margin-left: 8em; */
+}
+
+.goat{
+    justify-content: center;
+    padding-left: 14rem;
+    align-items: center;
+    margin: 0%;
+}
+
+input{
+    border: 3px, inset,red;
+    border-radius: 4px;
+    padding: 9px;
+}
+
+h1{
+    text-align: center;
+}
+
+.me{
+    width: 30em;
+}
+
+#code{
+    border: 3px inset red;
+    height: 2.8em;
+    border-radius: 3px;
+}
+
+#submit{
+    background-color:  #007af3;
+    border-radius: 1.3em;
+    font-size: 1.2em;
+    color: #fff;
+    font-weight: bolder;
+    padding-left: 3em;
+    padding-right: 3em;
+    /* padding: 0.6em; */
+     border: none;
+     cursor: pointer;
+     margin-top: 2%;
+
+}
